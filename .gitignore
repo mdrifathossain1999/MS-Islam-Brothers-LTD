@@ -8,3 +8,9 @@ Thumbs.db
 
 # Online config with credentials
 app/config/config_online.php
+
+# Duplicate/clone directory
+MS-Islam-Brothers-LTD/
+
+# Cloudflare
+frontend/dist/

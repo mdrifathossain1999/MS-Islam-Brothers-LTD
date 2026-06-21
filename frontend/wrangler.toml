@@ -1,0 +1,7 @@
+name = "ms-islam-brothers-ltd"
+compatibility_date = "2026-06-22"
+
+pages_build_output_dir = "dist"
+
+[env.production]
+vars = { VITE_API_URL = "https://fdb1029.awardspace.net" }
