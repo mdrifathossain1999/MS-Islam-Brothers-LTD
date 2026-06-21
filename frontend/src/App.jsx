@@ -4,7 +4,7 @@ import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
 import Sidebar from './components/Sidebar';
-import './public/css/sidebar.css';
+import '../public/css/sidebar.css';
 
 function App() {
   const [count, setCount] = useState(0)
