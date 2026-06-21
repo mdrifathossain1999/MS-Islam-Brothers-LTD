@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "msislambrothersltd",
+  "main": "src/index.js",
   "compatibility_date": "2026-06-21",
   "observability": {
     "enabled": true
@@ -10,5 +11,12 @@
   },
   "compatibility_flags": [
     "nodejs_compat"
+  ],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "msislam-brothers-db",
+      "database_id": "b33d59a8-d770-4cd9-85d9-23d84797369d"
+    }
   ]
 }
