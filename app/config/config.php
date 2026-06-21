@@ -8,7 +8,7 @@ $baseDir = dirname($_SERVER['SCRIPT_NAME']);
 $baseDir = str_replace('/app/config', '', $baseDir);
 define('BASE_URL', rtrim($protocol . $host . $baseDir, '/'));
 
-// Database - use environment variables or defaults
+// Database - use environment variables (for GitHub/public safety)
 define('DB_HOST', getenv('DB_HOST') ?: 'localhost');
 define('DB_NAME', getenv('DB_NAME') ?: 'digital_ledger_solutions');
 define('DB_USER', getenv('DB_USER') ?: 'root');
