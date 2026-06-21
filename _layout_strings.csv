@@ -1,0 +1,185 @@
+﻿layouts\main.php|BUTTON_LINK|à¦¬à¦¾à¦‚à¦²à¦¾
+layouts\main.php|BUTTON_LINK|English
+layouts\main.php|BUTTON_LINK|OK
+layouts\main.php|HEADING|Success!
+layouts\main.php|PAGE_TITLE|(dynamic, set per page)
+layouts\main.php|TRANSLATION_KEY|à¦¬à¦¾à¦‚à¦²à¦¾
+layouts\main.php|TRANSLATION_KEY|Account
+layouts\main.php|TRANSLATION_KEY|Accounting
+layouts\main.php|TRANSLATION_KEY|Accounts
+layouts\main.php|TRANSLATION_KEY|Action
+layouts\main.php|TRANSLATION_KEY|Active
+layouts\main.php|TRANSLATION_KEY|Add
+layouts\main.php|TRANSLATION_KEY|Add Product
+layouts\main.php|TRANSLATION_KEY|Add Purchase
+layouts\main.php|TRANSLATION_KEY|Address
+layouts\main.php|TRANSLATION_KEY|Admin
+layouts\main.php|TRANSLATION_KEY|Admin Dashboard
+layouts\main.php|TRANSLATION_KEY|All
+layouts\main.php|TRANSLATION_KEY|All Invoice
+layouts\main.php|TRANSLATION_KEY|All Invoices
+layouts\main.php|TRANSLATION_KEY|All Purchase
+layouts\main.php|TRANSLATION_KEY|Amount
+layouts\main.php|TRANSLATION_KEY|Apply
+layouts\main.php|TRANSLATION_KEY|April
+layouts\main.php|TRANSLATION_KEY|Attendance
+layouts\main.php|TRANSLATION_KEY|August
+layouts\main.php|TRANSLATION_KEY|Available Balance
+layouts\main.php|TRANSLATION_KEY|Back
+layouts\main.php|TRANSLATION_KEY|Balance
+layouts\main.php|TRANSLATION_KEY|Barcode
+layouts\main.php|TRANSLATION_KEY|bi bi-sun
+layouts\main.php|TRANSLATION_KEY|bi-check-circle-fill
+layouts\main.php|TRANSLATION_KEY|Cancel
+layouts\main.php|TRANSLATION_KEY|Cancelled
+layouts\main.php|TRANSLATION_KEY|Card
+layouts\main.php|TRANSLATION_KEY|Cash
+layouts\main.php|TRANSLATION_KEY|Categories
+layouts\main.php|TRANSLATION_KEY|Category
+layouts\main.php|TRANSLATION_KEY|Cheque
+layouts\main.php|TRANSLATION_KEY|Clear
+layouts\main.php|TRANSLATION_KEY|Close
+layouts\main.php|TRANSLATION_KEY|Closing Balance
+layouts\main.php|TRANSLATION_KEY|Completed
+layouts\main.php|TRANSLATION_KEY|Cost
+layouts\main.php|TRANSLATION_KEY|Cost Price
+layouts\main.php|TRANSLATION_KEY|Create
+layouts\main.php|TRANSLATION_KEY|Created
+layouts\main.php|TRANSLATION_KEY|Current Balance
+layouts\main.php|TRANSLATION_KEY|Custom Range
+layouts\main.php|TRANSLATION_KEY|Custom Range Report
+layouts\main.php|TRANSLATION_KEY|Customers
+layouts\main.php|TRANSLATION_KEY|Daily Sales
+layouts\main.php|TRANSLATION_KEY|Daily Sales Report
+layouts\main.php|TRANSLATION_KEY|Dashboard
+layouts\main.php|TRANSLATION_KEY|Database
+layouts\main.php|TRANSLATION_KEY|Database Backup
+layouts\main.php|TRANSLATION_KEY|Date
+layouts\main.php|TRANSLATION_KEY|Day
+layouts\main.php|TRANSLATION_KEY|December
+layouts\main.php|TRANSLATION_KEY|Delete
+layouts\main.php|TRANSLATION_KEY|Department
+layouts\main.php|TRANSLATION_KEY|Deposit
+layouts\main.php|TRANSLATION_KEY|Description
+layouts\main.php|TRANSLATION_KEY|Discount
+layouts\main.php|TRANSLATION_KEY|Download
+layouts\main.php|TRANSLATION_KEY|Due
+layouts\main.php|TRANSLATION_KEY|Due Amount
+layouts\main.php|TRANSLATION_KEY|Edit
+layouts\main.php|TRANSLATION_KEY|Email
+layouts\main.php|TRANSLATION_KEY|Employees
+layouts\main.php|TRANSLATION_KEY|Expense
+layouts\main.php|TRANSLATION_KEY|Export
+layouts\main.php|TRANSLATION_KEY|February
+layouts\main.php|TRANSLATION_KEY|Filter
+layouts\main.php|TRANSLATION_KEY|General
+layouts\main.php|TRANSLATION_KEY|General Settings
+layouts\main.php|TRANSLATION_KEY|Gross Profit
+layouts\main.php|TRANSLATION_KEY|Hold
+layouts\main.php|TRANSLATION_KEY|HRM
+layouts\main.php|TRANSLATION_KEY|Image
+layouts\main.php|TRANSLATION_KEY|In Stock
+layouts\main.php|TRANSLATION_KEY|Inactive
+layouts\main.php|TRANSLATION_KEY|Income
+layouts\main.php|TRANSLATION_KEY|Invoice
+layouts\main.php|TRANSLATION_KEY|Invoice Number
+layouts\main.php|TRANSLATION_KEY|Items Sold
+layouts\main.php|TRANSLATION_KEY|January
+layouts\main.php|TRANSLATION_KEY|July
+layouts\main.php|TRANSLATION_KEY|June
+layouts\main.php|TRANSLATION_KEY|Loading
+layouts\main.php|TRANSLATION_KEY|Logout
+layouts\main.php|TRANSLATION_KEY|Loss
+layouts\main.php|TRANSLATION_KEY|Low Stock
+layouts\main.php|TRANSLATION_KEY|March
+layouts\main.php|TRANSLATION_KEY|May
+layouts\main.php|TRANSLATION_KEY|Mobile Banking
+layouts\main.php|TRANSLATION_KEY|Month
+layouts\main.php|TRANSLATION_KEY|Monthly
+layouts\main.php|TRANSLATION_KEY|Monthly Report
+layouts\main.php|TRANSLATION_KEY|Name
+layouts\main.php|TRANSLATION_KEY|Net Profit
+layouts\main.php|TRANSLATION_KEY|New Account
+layouts\main.php|TRANSLATION_KEY|No data found
+layouts\main.php|TRANSLATION_KEY|none
+layouts\main.php|TRANSLATION_KEY|November
+layouts\main.php|TRANSLATION_KEY|October
+layouts\main.php|TRANSLATION_KEY|Opening Balance
+layouts\main.php|TRANSLATION_KEY|Order
+layouts\main.php|TRANSLATION_KEY|Out of Stock
+layouts\main.php|TRANSLATION_KEY|Paid
+layouts\main.php|TRANSLATION_KEY|Paid Amount
+layouts\main.php|TRANSLATION_KEY|Partial
+layouts\main.php|TRANSLATION_KEY|Pay Now
+layouts\main.php|TRANSLATION_KEY|Payment
+layouts\main.php|TRANSLATION_KEY|Payment Method
+layouts\main.php|TRANSLATION_KEY|Pending
+layouts\main.php|TRANSLATION_KEY|People
+layouts\main.php|TRANSLATION_KEY|Phone
+layouts\main.php|TRANSLATION_KEY|POS Sale
+layouts\main.php|TRANSLATION_KEY|Previous Balance
+layouts\main.php|TRANSLATION_KEY|Price
+layouts\main.php|TRANSLATION_KEY|Print
+layouts\main.php|TRANSLATION_KEY|Product
+layouts\main.php|TRANSLATION_KEY|Product Sales
+layouts\main.php|TRANSLATION_KEY|Products
+layouts\main.php|TRANSLATION_KEY|Profile
+layouts\main.php|TRANSLATION_KEY|Profit
+layouts\main.php|TRANSLATION_KEY|Profit Report
+layouts\main.php|TRANSLATION_KEY|Purchase
+layouts\main.php|TRANSLATION_KEY|Quantity
+layouts\main.php|TRANSLATION_KEY|Quick Links
+layouts\main.php|TRANSLATION_KEY|Receive
+layouts\main.php|TRANSLATION_KEY|Received
+layouts\main.php|TRANSLATION_KEY|Reports
+layouts\main.php|TRANSLATION_KEY|Reset
+layouts\main.php|TRANSLATION_KEY|Retailer
+layouts\main.php|TRANSLATION_KEY|Return
+layouts\main.php|TRANSLATION_KEY|Returns
+layouts\main.php|TRANSLATION_KEY|Revenue
+layouts\main.php|TRANSLATION_KEY|rgba(5, 150, 105, 0.95)
+layouts\main.php|TRANSLATION_KEY|Role Permission
+layouts\main.php|TRANSLATION_KEY|Sale
+layouts\main.php|TRANSLATION_KEY|Sales
+layouts\main.php|TRANSLATION_KEY|Save
+layouts\main.php|TRANSLATION_KEY|Search
+layouts\main.php|TRANSLATION_KEY|Select
+layouts\main.php|TRANSLATION_KEY|Sell Price
+layouts\main.php|TRANSLATION_KEY|September
+layouts\main.php|TRANSLATION_KEY|Settings
+layouts\main.php|TRANSLATION_KEY|Size
+layouts\main.php|TRANSLATION_KEY|Status
+layouts\main.php|TRANSLATION_KEY|Stock
+layouts\main.php|TRANSLATION_KEY|Stock Quantity
+layouts\main.php|TRANSLATION_KEY|Stock Report
+layouts\main.php|TRANSLATION_KEY|Submit
+layouts\main.php|TRANSLATION_KEY|Summary
+layouts\main.php|TRANSLATION_KEY|Suppliers
+layouts\main.php|TRANSLATION_KEY|Tax
+layouts\main.php|TRANSLATION_KEY|This Month
+layouts\main.php|TRANSLATION_KEY|Today
+layouts\main.php|TRANSLATION_KEY|Total
+layouts\main.php|TRANSLATION_KEY|Total Amount
+layouts\main.php|TRANSLATION_KEY|Total Collected
+layouts\main.php|TRANSLATION_KEY|Total Cost
+layouts\main.php|TRANSLATION_KEY|Total Credit
+layouts\main.php|TRANSLATION_KEY|Total Debit
+layouts\main.php|TRANSLATION_KEY|Total Expenses
+layouts\main.php|TRANSLATION_KEY|Total Profit
+layouts\main.php|TRANSLATION_KEY|Total Sales
+layouts\main.php|TRANSLATION_KEY|Transfer
+layouts\main.php|TRANSLATION_KEY|Unit
+layouts\main.php|TRANSLATION_KEY|Units
+layouts\main.php|TRANSLATION_KEY|Units Sold
+layouts\main.php|TRANSLATION_KEY|Updated
+layouts\main.php|TRANSLATION_KEY|Uploads
+layouts\main.php|TRANSLATION_KEY|User Management
+layouts\main.php|TRANSLATION_KEY|Users
+layouts\main.php|TRANSLATION_KEY|VAT
+layouts\main.php|TRANSLATION_KEY|View
+layouts\main.php|TRANSLATION_KEY|Walk-in Customer
+layouts\main.php|TRANSLATION_KEY|Week
+layouts\main.php|TRANSLATION_KEY|Welcome
+layouts\main.php|TRANSLATION_KEY|Wholesaler
+layouts\main.php|TRANSLATION_KEY|Withdraw
+layouts\main.php|TRANSLATION_KEY|Year

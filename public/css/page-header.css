@@ -1,0 +1,106 @@
+/* ========================================
+   GLOBAL PAGE HEADER - Full Site
+   ======================================== */
+
+.page-header {
+    background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+    padding: 16px 24px;
+    border-radius: 12px;
+    color: white;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    box-shadow: 0 4px 16px rgba(139, 92, 246, 0.3);
+}
+
+.page-header > div:first-child {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.page-header h1 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.page-header h1 i {
+    font-size: 1.2rem;
+    background: rgba(255,255,255,0.2);
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.page-header p {
+    margin: 4px 0 0;
+    opacity: 0.9;
+    font-size: 0.85rem;
+}
+
+/* Buttons inside page-header */
+.page-header .btn {
+    background: white;
+    color: #8b5cf6;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 13px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.page-header .btn:hover {
+    background: #8b5cf6;
+    color: white;
+    transform: translateY(-1px);
+    box-shadow: 0 6px 12px rgba(139, 92, 246, 0.3);
+}
+
+.page-header .btn-back {
+    background: rgba(255,255,255,0.2);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-weight: 600;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.2s;
+    font-size: 13px;
+}
+
+.page-header .btn-back:hover {
+    background: white;
+    color: #8b5cf6;
+}
+
+.page-header .header-actions {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .page-header {
+        padding: 14px 18px;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .page-header h1 { font-size: 1.1rem; }
+    .page-header > div:first-child { flex-wrap: wrap; }
+}

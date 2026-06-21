@@ -1,0 +1,852 @@
+﻿account\create.php|HEADING|Create New Account
+account\create.php|LABEL|Account Name *
+account\create.php|LABEL|Account Number
+account\create.php|LABEL|Account Type
+account\create.php|LABEL|Opening Balance
+account\create.php|OPTION|Bank
+account\create.php|OPTION|Cash
+account\create.php|OPTION|Mobile Banking
+account\create.php|PLACEHOLDER|e.g., ACC-001
+account\create.php|PLACEHOLDER|e.g., Main Cash, Bank Account
+account\deposit.php|BUTTON_LINK|Deposit
+account\deposit.php|HEADING|Deposit Money
+account\deposit.php|HEADING|New Deposit
+account\deposit.php|LABEL|Account
+account\deposit.php|LABEL|Amount
+account\deposit.php|LABEL|Date
+account\deposit.php|LABEL|Description
+account\deposit.php|LABEL|Reference No
+account\deposit.php|MESSAGE|No deposits yet
+account\deposit.php|OPTION|Select Account
+account\deposit.php|PLACEHOLDER|0.00
+account\deposit.php|PLACEHOLDER|Optional
+account\deposit.php|TABLE_HEADER|Account
+account\deposit.php|TABLE_HEADER|Amount
+account\deposit.php|TABLE_HEADER|Date
+account\deposit.php|TABLE_HEADER|Description
+account\deposit.php|TABLE_HEADER|Reference
+account\edit.php|HEADING|Edit Account
+account\edit.php|LABEL|Account Name *
+account\edit.php|LABEL|Account Number
+account\edit.php|LABEL|Account Type
+account\index.php|HEADING|Accounting Dashboard
+account\index.php|HEADING|Accounts
+account\index.php|HEADING|Transaction History
+account\index.php|TABLE_HEADER|Account
+account\index.php|TABLE_HEADER|Account Name
+account\index.php|TABLE_HEADER|Action
+account\index.php|TABLE_HEADER|Amount
+account\index.php|TABLE_HEADER|Balance
+account\index.php|TABLE_HEADER|Date
+account\index.php|TABLE_HEADER|Type
+account\withdraw.php|BUTTON_LINK|Withdraw
+account\withdraw.php|HEADING|New Withdrawal
+account\withdraw.php|HEADING|Withdraw Money
+account\withdraw.php|LABEL|Account
+account\withdraw.php|LABEL|Amount
+account\withdraw.php|LABEL|Date
+account\withdraw.php|LABEL|Description
+account\withdraw.php|LABEL|Reference No
+account\withdraw.php|MESSAGE|No withdrawals yet
+account\withdraw.php|OPTION|Select Account
+account\withdraw.php|PLACEHOLDER|0.00
+account\withdraw.php|PLACEHOLDER|Optional
+account\withdraw.php|TABLE_HEADER|Account
+account\withdraw.php|TABLE_HEADER|Amount
+account\withdraw.php|TABLE_HEADER|Date
+account\withdraw.php|TABLE_HEADER|Description
+account\withdraw.php|TABLE_HEADER|Reference
+admin\activity_logs.php|BUTTON_LINK|Clear
+admin\activity_logs.php|BUTTON_LINK|Filter
+admin\activity_logs.php|HEADING|Activity Logs
+admin\activity_logs.php|HEADING|All Activities
+admin\activity_logs.php|MESSAGE|No activity logs found
+admin\activity_logs.php|OPTION|30 days
+admin\activity_logs.php|OPTION|60 days
+admin\activity_logs.php|OPTION|7 days
+admin\activity_logs.php|OPTION|90 days
+admin\activity_logs.php|OPTION|All Actions
+admin\activity_logs.php|OPTION|All Modules
+admin\activity_logs.php|OPTION|All Users
+admin\activity_logs.php|PLACEHOLDER|From
+admin\activity_logs.php|PLACEHOLDER|To
+admin\activity_logs.php|TABLE_HEADER|Action
+admin\activity_logs.php|TABLE_HEADER|Date & Time
+admin\activity_logs.php|TABLE_HEADER|Description
+admin\activity_logs.php|TABLE_HEADER|IP Address
+admin\activity_logs.php|TABLE_HEADER|Module
+admin\activity_logs.php|TABLE_HEADER|User
+admin\categories.php|BUTTON_LINK|Add Category
+admin\categories.php|BUTTON_LINK|Cancel
+admin\categories.php|BUTTON_LINK|Save
+admin\categories.php|HEADING|Add Category
+admin\categories.php|HEADING|Categories
+admin\categories.php|HEADING|No Categories Found
+admin\categories.php|LABEL|Category Name
+admin\categories.php|LABEL|Size Options
+admin\categories.php|LABEL|Size Type
+admin\categories.php|MESSAGE|No Categories Found
+admin\categories.php|MESSAGE|No Size
+admin\categories.php|OPTION|Multiple Sizes
+admin\categories.php|OPTION|No Size
+admin\categories.php|OPTION|Single Size
+admin\categories.php|PLACEHOLDER|Enter category name
+admin\categories.php|PLACEHOLDER|S, M, L, XL
+admin\category_unit.php|HEADING|Add/Update Mapping
+admin\category_unit.php|HEADING|Category-Unit Mapping
+admin\category_unit.php|LABEL|&nbsp;
+admin\category_unit.php|LABEL|Category
+admin\category_unit.php|LABEL|Default Unit
+admin\category_unit.php|MESSAGE|No mappings found. Add a mapping above.
+admin\category_unit.php|OPTION|Select Category
+admin\category_unit.php|OPTION|Select Unit
+admin\category_unit.php|TABLE_HEADER|Actions
+admin\category_unit.php|TABLE_HEADER|Category
+admin\category_unit.php|TABLE_HEADER|Default Unit
+admin\category-edit.php|BUTTON_LINK|Save Changes
+admin\category-edit.php|HEADING|Edit Category
+admin\category-edit.php|LABEL|Category Name
+admin\customer_type_form.php|HEADING|Edit Customer Type
+admin\customer_type_form.php|LABEL|Active
+admin\customer_type_form.php|LABEL|Description
+admin\customer_type_form.php|LABEL|Discount (%)
+admin\customer_type_form.php|LABEL|Display Order
+admin\customer_type_form.php|PLACEHOLDER|Brief description of this customer type
+admin\customer_types.php|BUTTON_LINK|Add Type
+admin\customer_types.php|BUTTON_LINK|Cancel
+admin\customer_types.php|BUTTON_LINK|Save
+admin\customer_types.php|HEADING|Add Customer Type
+admin\customer_types.php|HEADING|Customer Types
+admin\customer_types.php|HEADING|No Customer Types
+admin\customer_types.php|LABEL|Type Name
+admin\customer_types.php|MESSAGE|No Customer Types
+admin\customer_types.php|PLACEHOLDER|Enter type name
+admin\database.php|BUTTON_LINK|Download
+admin\database.php|HEADING|Custom Date Range
+admin\database.php|HEADING|Customer Data
+admin\database.php|HEADING|Daily Sales Report
+admin\database.php|HEADING|Database Backup
+admin\database.php|HEADING|Database Management
+admin\database.php|HEADING|Database Tables
+admin\database.php|HEADING|Monthly Sales Report
+admin\database.php|HEADING|Product Sales Report
+admin\database.php|HEADING|Reports Export
+admin\database.php|HEADING|Stock Report
+admin\database.php|TABLE_HEADER|Description
+admin\database.php|TABLE_HEADER|Table Name
+admin\index.php|HEADING|Activity Logs
+admin\index.php|HEADING|Admin Dashboard
+admin\index.php|HEADING|Categories
+admin\index.php|HEADING|Category Units
+admin\index.php|HEADING|Customer Types
+admin\index.php|HEADING|Database
+admin\index.php|HEADING|Import/Export
+admin\index.php|HEADING|Settings
+admin\index.php|HEADING|Summary Cards
+admin\index.php|HEADING|Units
+admin\index.php|HEADING|Uploads
+admin\index.php|HEADING|User Management
+admin\product_import_export.php|HEADING|CSV Format Guide
+admin\product_import_export.php|HEADING|Download Sample Template
+admin\product_import_export.php|HEADING|Export Products
+admin\product_import_export.php|HEADING|Import Products
+admin\product_import_export.php|HEADING|Product Import/Export
+admin\product_import_export.php|TABLE_HEADER|Barcode
+admin\product_import_export.php|TABLE_HEADER|Category
+admin\product_import_export.php|TABLE_HEADER|Cost Price *
+admin\product_import_export.php|TABLE_HEADER|Description
+admin\product_import_export.php|TABLE_HEADER|Low Stock
+admin\product_import_export.php|TABLE_HEADER|Product Name *
+admin\product_import_export.php|TABLE_HEADER|Sell Price *
+admin\product_import_export.php|TABLE_HEADER|Status
+admin\product_import_export.php|TABLE_HEADER|Stock Qty
+admin\product_import_export.php|TABLE_HEADER|Unit
+admin\settings.php|HEADING|Business Settings
+admin\settings.php|HEADING|Company Information
+admin\settings.php|HEADING|System Settings
+admin\settings.php|LABEL|Address
+admin\settings.php|LABEL|Company Name
+admin\settings.php|LABEL|Currency Symbol
+admin\settings.php|LABEL|Default Tax Rate (%)
+admin\settings.php|LABEL|Email Address
+admin\settings.php|LABEL|Low Stock Alert Threshold
+admin\settings.php|LABEL|Phone Number
+admin\settings.php|LABEL|Show Barcode Field in Product
+admin\settings.php|LABEL|Site Name
+admin\settings.php|PLACEHOLDER|https://example.com/logo.png
+admin\summary_card_form.php|HEADING|Edit Summary Card
+admin\summary_card_form.php|HEADING|Preview
+admin\summary_card_form.php|LABEL|Active
+admin\summary_card_form.php|LABEL|Card Title *
+admin\summary_card_form.php|LABEL|Card Type
+admin\summary_card_form.php|LABEL|Color
+admin\summary_card_form.php|LABEL|Custom SQL Query
+admin\summary_card_form.php|LABEL|Display Order
+admin\summary_card_form.php|LABEL|Icon Class
+admin\summary_card_form.php|LABEL|Status
+admin\summary_cards.php|BUTTON_LINK|Cancel
+admin\summary_cards.php|HEADING|Add New Summary Card
+admin\summary_cards.php|HEADING|Summary Cards
+admin\summary_cards.php|LABEL|Card Title *
+admin\summary_cards.php|LABEL|Card Type
+admin\summary_cards.php|LABEL|Color
+admin\summary_cards.php|LABEL|Custom SQL Query
+admin\summary_cards.php|LABEL|Display Order
+admin\summary_cards.php|LABEL|Icon Class
+admin\summary_cards.php|OPTION|Bar Chart
+admin\summary_cards.php|OPTION|Box/Package
+admin\summary_cards.php|OPTION|Building
+admin\summary_cards.php|OPTION|Cart
+admin\summary_cards.php|OPTION|Collection
+admin\summary_cards.php|OPTION|Custom Query
+admin\summary_cards.php|OPTION|Dollar
+admin\summary_cards.php|OPTION|Graph
+admin\summary_cards.php|OPTION|Heart
+admin\summary_cards.php|OPTION|Low Stock Count
+admin\summary_cards.php|OPTION|People
+admin\summary_cards.php|OPTION|Pie Chart
+admin\summary_cards.php|OPTION|Receipt
+admin\summary_cards.php|OPTION|Speed
+admin\summary_cards.php|OPTION|Star
+admin\summary_cards.php|OPTION|Total Customers
+admin\summary_cards.php|OPTION|Total Products
+admin\summary_cards.php|OPTION|Total Users
+admin\summary_cards.php|OPTION|Truck
+admin\summary_cards.php|OPTION|Wallet
+admin\summary_cards.php|PLACEHOLDER|e.g., Total Sales
+admin\summary_cards.php|PLACEHOLDER|SELECT COUNT(*) as count FROM table_name
+admin\units.php|HEADING|No Units Found
+admin\units.php|HEADING|Units
+admin\units.php|MESSAGE|No Units Found
+admin\uploads.php|BUTTON_LINK|&times;
+admin\uploads.php|HEADING|KB
+admin\uploads.php|HEADING|Uploads Manager
+admin\uploads.php|MESSAGE|No files found in uploads directory.
+admin\user-form.php|LABEL|Email
+admin\user-form.php|LABEL|Status
+admin\users.php|HEADING|No Users Found
+admin\users.php|HEADING|User Management
+admin\users.php|MESSAGE|No Users Found
+admin\users.php|PLACEHOLDER|Search users...
+admin\users.php|TABLE_HEADER|Actions
+admin\users.php|TABLE_HEADER|Last Login
+admin\users.php|TABLE_HEADER|Role
+admin\users.php|TABLE_HEADER|Status
+admin\users.php|TABLE_HEADER|User
+auth\login.php|BUTTON_LINK|+8801889933520
+auth\login.php|BUTTON_LINK|Forgot password?
+auth\login.php|BUTTON_LINK|Md Rifat Hossain
+auth\login.php|LABEL|Password
+auth\login.php|LABEL|Remember me
+auth\login.php|LABEL|Username
+auth\login.php|PLACEHOLDER|Enter your password
+auth\login.php|PLACEHOLDER|Enter your username
+auth\profile.php|HEADING|Account Settings
+auth\profile.php|HEADING|Change Password
+auth\profile.php|HEADING|User Profile
+auth\profile.php|LABEL|Email
+auth\profile.php|LABEL|Full Name *
+auth\profile.php|LABEL|New Password (leave blank to keep current)
+auth\profile.php|LABEL|Role
+auth\profile.php|LABEL|Username
+auth\profile.php|PLACEHOLDER|Enter new password
+customers\create.php|LABEL|Address
+customers\create.php|LABEL|Customer Type
+customers\create.php|LABEL|Email
+customers\create.php|OPTION|Dealer
+customers\create.php|OPTION|Retailer
+customers\create.php|OPTION|VIP
+customers\create.php|OPTION|Wholesaler
+customers\create.php|PLACEHOLDER|Enter address
+customers\create.php|PLACEHOLDER|Enter customer name
+customers\create.php|PLACEHOLDER|Enter email address
+customers\create.php|PLACEHOLDER|Enter phone number
+customers\edit.php|LABEL|Address
+customers\edit.php|LABEL|Email
+customers\edit.php|LABEL|Phone Number
+customers\edit.php|LABEL|Status
+customers\history.php|HEADING|Loyalty Points
+customers\history.php|HEADING|Total Purchases
+customers\history.php|HEADING|Total Transactions
+customers\history.php|TABLE_HEADER|Actions
+customers\history.php|TABLE_HEADER|Cashier
+customers\history.php|TABLE_HEADER|Date
+customers\history.php|TABLE_HEADER|Invoice #
+customers\history.php|TABLE_HEADER|Payment
+customers\history.php|TABLE_HEADER|Total
+customers\index.php|HEADING|Customer List
+customers\index.php|HEADING|Customers
+customers\index.php|MESSAGE|No Due
+customers\index.php|PLACEHOLDER|Search by name, phone or address...
+customers\index.php|TABLE_HEADER|Actions
+customers\index.php|TABLE_HEADER|Address
+customers\index.php|TABLE_HEADER|Customer
+customers\index.php|TABLE_HEADER|Due
+customers\index.php|TABLE_HEADER|Phone
+customers\index.php|TABLE_HEADER|Status
+customers\profile.php|HEADING|Payment History
+customers\profile.php|HEADING|Purchase History
+customers\profile.php|HEADING|Total Due
+customers\profile.php|HEADING|Total Paid
+customers\profile.php|HEADING|Total Purchase
+customers\profile.php|MESSAGE|No payment history found
+customers\profile.php|MESSAGE|No purchase history found
+customers\profile.php|TABLE_HEADER|Amount
+customers\profile.php|TABLE_HEADER|Date
+customers\profile.php|TABLE_HEADER|Due
+customers\profile.php|TABLE_HEADER|Invoice
+customers\profile.php|TABLE_HEADER|Method
+customers\profile.php|TABLE_HEADER|Notes
+customers\profile.php|TABLE_HEADER|Paid
+customers\profile.php|TABLE_HEADER|Payment Method
+customers\profile.php|TABLE_HEADER|Received By
+customers\profile.php|TABLE_HEADER|Total
+customers\receive_payment.php|HEADING|Receive Payment
+customers\receive_payment.php|LABEL|Amount to Receive
+customers\receive_payment.php|LABEL|Note (Optional)
+customers\receive_payment.php|LABEL|Payment Method
+customers\receive_payment.php|OPTION|Card
+customers\receive_payment.php|OPTION|Cash
+customers\receive_payment.php|OPTION|Mobile Banking
+customers\receive_payment.php|PLACEHOLDER|Add a note...
+dashboard\index.php|BUTTON_LINK|Export
+dashboard\index.php|BUTTON_LINK|View All
+dashboard\index.php|HEADING|Dashboard
+dashboard\index.php|HEADING|Low Stock Products
+dashboard\index.php|HEADING|Recent Sales
+dashboard\index.php|HEADING|Sales Overview
+dashboard\index.php|HEADING|Top Categories
+dashboard\index.php|MESSAGE|No low stock products
+dashboard\index.php|MESSAGE|No recent sales
+dashboard\index.php|TABLE_HEADER|Amount
+dashboard\index.php|TABLE_HEADER|Customer
+dashboard\index.php|TABLE_HEADER|Invoice
+dashboard\index.php|TABLE_HEADER|Price
+dashboard\index.php|TABLE_HEADER|Product
+dashboard\index.php|TABLE_HEADER|Status
+dashboard\index.php|TABLE_HEADER|Stock
+dashboard\modern.php|BUTTON_LINK|Last 28 Days
+dashboard\modern.php|BUTTON_LINK|Last 7 Days
+dashboard\modern.php|HEADING|Dashboard
+dashboard\modern.php|HEADING|Low Stock Alert
+dashboard\modern.php|HEADING|Overview
+dashboard\modern.php|HEADING|Recent Sales
+dashboard\modern.php|HEADING|Revenue Statistics
+dashboard\modern.php|MESSAGE|No recent sales found
+dashboard\modern.php|TABLE_HEADER|Customer
+dashboard\modern.php|TABLE_HEADER|Date
+dashboard\modern.php|TABLE_HEADER|Due
+dashboard\modern.php|TABLE_HEADER|Invoice
+dashboard\modern.php|TABLE_HEADER|Paid
+dashboard\modern.php|TABLE_HEADER|Status
+dashboard\modern.php|TABLE_HEADER|Total
+expense\create.php|BUTTON_LINK|Save Expense
+expense\create.php|LABEL|Amount
+expense\create.php|LABEL|Category
+expense\create.php|LABEL|Date
+expense\create.php|LABEL|Description
+expense\create.php|LABEL|Reference No (Optional)
+expense\create.php|OPTION|Select Category
+expense\create.php|PLACEHOLDER|0.00
+expense\create.php|PLACEHOLDER|Enter expense description
+expense\create.php|PLACEHOLDER|Enter reference number
+expense\index.php|BUTTON_LINK|Filter
+expense\index.php|HEADING|Expense List
+expense\index.php|MESSAGE|No expenses found
+expense\index.php|OPTION|All Categories
+expense\index.php|PLACEHOLDER|Search...
+expense\index.php|TABLE_HEADER|Amount
+expense\index.php|TABLE_HEADER|By
+expense\index.php|TABLE_HEADER|Category
+expense\index.php|TABLE_HEADER|Date
+expense\index.php|TABLE_HEADER|Description
+expense\index.php|TABLE_HEADER|Reference
+hrm\attendance.php|BUTTON_LINK|Mark Attendance
+hrm\attendance.php|HEADING|Attendance
+hrm\attendance.php|LABEL|Check In
+hrm\attendance.php|LABEL|Check Out
+hrm\attendance.php|LABEL|Date
+hrm\attendance.php|LABEL|Employee
+hrm\attendance.php|LABEL|Status
+hrm\attendance.php|MESSAGE|No attendance records
+hrm\attendance.php|OPTION|Absent
+hrm\attendance.php|OPTION|Late
+hrm\attendance.php|OPTION|Leave
+hrm\attendance.php|OPTION|Present
+hrm\attendance.php|OPTION|Select Employee
+hrm\attendance.php|TABLE_HEADER|Check In
+hrm\attendance.php|TABLE_HEADER|Check Out
+hrm\attendance.php|TABLE_HEADER|Date
+hrm\attendance.php|TABLE_HEADER|Employee
+hrm\attendance.php|TABLE_HEADER|Status
+hrm\department.php|BUTTON_LINK|Add Department
+hrm\department.php|BUTTON_LINK|Save
+hrm\department.php|HEADING|Add Department
+hrm\department.php|HEADING|Department
+hrm\department.php|LABEL|Department Name
+hrm\department.php|LABEL|Description
+hrm\department.php|MESSAGE|No departments found
+hrm\department.php|TABLE_HEADER|Actions
+hrm\department.php|TABLE_HEADER|Department Name
+hrm\department.php|TABLE_HEADER|Description
+hrm\department.php|TABLE_HEADER|ID
+hrm\department.php|TABLE_HEADER|Status
+hrm\department-edit.php|BUTTON_LINK|Save Changes
+hrm\department-edit.php|HEADING|Edit Department
+hrm\department-edit.php|LABEL|Department Name
+hrm\department-edit.php|LABEL|Description
+hrm\department-edit.php|LABEL|Status
+hrm\employee.php|BUTTON_LINK|Add Employee
+hrm\employee.php|BUTTON_LINK|Save
+hrm\employee.php|HEADING|Add Employee
+hrm\employee.php|HEADING|Employee
+hrm\employee.php|LABEL|Address
+hrm\employee.php|LABEL|Department
+hrm\employee.php|LABEL|Designation
+hrm\employee.php|LABEL|Email
+hrm\employee.php|LABEL|First Name
+hrm\employee.php|LABEL|Join Date
+hrm\employee.php|LABEL|Last Name
+hrm\employee.php|LABEL|Phone
+hrm\employee.php|LABEL|Salary
+hrm\employee.php|MESSAGE|No employees found
+hrm\employee.php|TABLE_HEADER|Actions
+hrm\employee.php|TABLE_HEADER|Department
+hrm\employee.php|TABLE_HEADER|Designation
+hrm\employee.php|TABLE_HEADER|ID
+hrm\employee.php|TABLE_HEADER|Name
+hrm\employee.php|TABLE_HEADER|Phone
+hrm\employee.php|TABLE_HEADER|Salary
+hrm\employee.php|TABLE_HEADER|Status
+hrm\employee-edit.php|BUTTON_LINK|Save Changes
+hrm\employee-edit.php|HEADING|Edit Employee
+hrm\employee-edit.php|LABEL|Department
+hrm\employee-edit.php|LABEL|Designation
+hrm\employee-edit.php|LABEL|Email
+hrm\employee-edit.php|LABEL|First Name
+hrm\employee-edit.php|LABEL|Last Name
+hrm\employee-edit.php|LABEL|Phone
+hrm\employee-edit.php|LABEL|Salary
+hrm\employee-edit.php|LABEL|Status
+hrm\holiday.php|BUTTON_LINK|Add Holiday
+hrm\holiday.php|BUTTON_LINK|Save
+hrm\holiday.php|HEADING|Add Holiday
+hrm\holiday.php|HEADING|Holiday
+hrm\holiday.php|LABEL|Date
+hrm\holiday.php|LABEL|Description
+hrm\holiday.php|LABEL|Holiday Name
+hrm\holiday.php|LABEL|Recurring Yearly
+hrm\holiday.php|MESSAGE|No holidays found
+hrm\holiday.php|OPTION|No
+hrm\holiday.php|OPTION|Yes
+hrm\holiday.php|TABLE_HEADER|Date
+hrm\holiday.php|TABLE_HEADER|Description
+hrm\holiday.php|TABLE_HEADER|Holiday Name
+hrm\holiday.php|TABLE_HEADER|Recurring
+invoices\date_range.php|BUTTON_LINK|Filter
+invoices\date_range.php|HEADING|Sales by Date Range
+invoices\date_range.php|TABLE_HEADER|Actions
+invoices\date_range.php|TABLE_HEADER|Customer
+invoices\date_range.php|TABLE_HEADER|Date
+invoices\date_range.php|TABLE_HEADER|Invoice #
+invoices\date_range.php|TABLE_HEADER|Payment
+invoices\date_range.php|TABLE_HEADER|Total
+invoices\due.php|HEADING|Customers
+invoices\due.php|HEADING|Due Invoice List
+invoices\due.php|HEADING|Invoices
+invoices\due.php|HEADING|This Month
+invoices\due.php|HEADING|Total Due
+invoices\due.php|TABLE_HEADER|Action
+invoices\due.php|TABLE_HEADER|Customer
+invoices\due.php|TABLE_HEADER|Date
+invoices\due.php|TABLE_HEADER|Days Overdue
+invoices\due.php|TABLE_HEADER|Due
+invoices\due.php|TABLE_HEADER|Invoice
+invoices\due.php|TABLE_HEADER|Paid
+invoices\due.php|TABLE_HEADER|Total
+invoices\edit_template.php|HEADING|{{SITE_NAME}}
+invoices\edit_template.php|HEADING|Basic Settings
+invoices\edit_template.php|HEADING|Content Settings
+invoices\edit_template.php|HEADING|Custom HTML
+invoices\edit_template.php|HEADING|Display Options
+invoices\edit_template.php|HEADING|Edit Invoice Template
+invoices\edit_template.php|HEADING|Live Preview
+invoices\edit_template.php|LABEL|Active
+invoices\edit_template.php|LABEL|Cashier Signature
+invoices\edit_template.php|LABEL|Color Scheme
+invoices\edit_template.php|LABEL|Customer Signature
+invoices\edit_template.php|LABEL|Footer Text
+invoices\edit_template.php|LABEL|Header Text
+invoices\edit_template.php|LABEL|Print Size
+invoices\edit_template.php|LABEL|Show Barcode
+invoices\edit_template.php|LABEL|Show Company Logo
+invoices\edit_template.php|LABEL|Show QR Code
+invoices\edit_template.php|LABEL|Show Terms & Conditions
+invoices\edit_template.php|LABEL|Template Type
+invoices\edit_template.php|LABEL|Terms & Conditions
+invoices\edit_template.php|PLACEHOLDER|<div>{{INVOICE_NUMBER}}</div>
+invoices\edit_template.php|PLACEHOLDER|Company Name&#10;Address&#10;Phone
+invoices\edit_template.php|PLACEHOLDER|Terms and conditions content
+invoices\edit_template.php|PLACEHOLDER|Thank you message
+invoices\edit_template.php|TABLE_HEADER|Item Description
+invoices\edit_template.php|TABLE_HEADER|Price
+invoices\edit_template.php|TABLE_HEADER|Qty
+invoices\edit_template.php|TABLE_HEADER|Total
+invoices\index.php|MESSAGE|No invoices found
+invoices\index.php|PLACEHOLDER|Search invoice number...
+invoices\index.php|TABLE_HEADER|Actions
+invoices\index.php|TABLE_HEADER|Cashier
+invoices\index.php|TABLE_HEADER|Customer
+invoices\index.php|TABLE_HEADER|Date
+invoices\index.php|TABLE_HEADER|Due
+invoices\index.php|TABLE_HEADER|Invoice
+invoices\index.php|TABLE_HEADER|Paid
+invoices\index.php|TABLE_HEADER|SL
+invoices\index.php|TABLE_HEADER|Status
+invoices\index.php|TABLE_HEADER|Total
+invoices\numbering.php|HEADING|Add/Update Prefix
+invoices\numbering.php|HEADING|Configured Prefixes
+invoices\numbering.php|HEADING|Invoice Numbering
+invoices\numbering.php|LABEL|Fiscal Year
+invoices\numbering.php|LABEL|Padding (digits)
+invoices\numbering.php|LABEL|Starting Number
+invoices\numbering.php|MESSAGE|No numbering prefixes configured yet.
+invoices\numbering.php|PLACEHOLDER|2026
+invoices\numbering.php|PLACEHOLDER|INV
+invoices\numbering.php|TABLE_HEADER|Actions
+invoices\numbering.php|TABLE_HEADER|Current #
+invoices\numbering.php|TABLE_HEADER|Example
+invoices\numbering.php|TABLE_HEADER|Fiscal Year
+invoices\numbering.php|TABLE_HEADER|Padding
+invoices\numbering.php|TABLE_HEADER|Prefix
+invoices\numbering.php|TABLE_HEADER|Status
+invoices\print.php|HEADING|Bill To
+invoices\print.php|HEADING|From
+invoices\print.php|HEADING|INVOICE
+invoices\print.php|TABLE_HEADER|Item Description
+invoices\print.php|TABLE_HEADER|Qty
+invoices\print.php|TABLE_HEADER|Total
+invoices\print.php|TABLE_HEADER|Unit Price
+invoices\print_new.php|TABLE_HEADER|Item
+invoices\print_new.php|TABLE_HEADER|Price
+invoices\print_new.php|TABLE_HEADER|Qty
+invoices\print_new.php|TABLE_HEADER|Total
+invoices\templates.php|HEADING|Create New Template
+invoices\templates.php|HEADING|Existing Templates
+invoices\templates.php|HEADING|Invoice Templates
+invoices\templates.php|LABEL|&nbsp;
+invoices\templates.php|LABEL|Color Scheme
+invoices\templates.php|LABEL|Custom HTML Code
+invoices\templates.php|LABEL|Template Type
+invoices\templates.php|OPTION|A4
+invoices\templates.php|OPTION|A5
+invoices\templates.php|OPTION|Custom HTML
+invoices\templates.php|OPTION|General Invoice
+invoices\templates.php|OPTION|POS (80mm)
+invoices\templates.php|OPTION|Thermal (58mm)
+invoices\templates.php|PLACEHOLDER|<div>Your custom HTML...</div>
+invoices\templates.php|PLACEHOLDER|My Custom Template
+invoices\today.php|HEADING|Total Due
+invoices\today.php|HEADING|Total Paid
+invoices\today.php|HEADING|Total Sales
+invoices\today.php|HEADING|Transactions
+invoices\today.php|PAGE_TITLE|Today's Sales
+invoices\today.php|TABLE_HEADER|Actions
+invoices\today.php|TABLE_HEADER|Customer
+invoices\today.php|TABLE_HEADER|Due
+invoices\today.php|TABLE_HEADER|Invoice #
+invoices\today.php|TABLE_HEADER|Paid
+invoices\today.php|TABLE_HEADER|Payment
+invoices\today.php|TABLE_HEADER|Time
+invoices\today.php|TABLE_HEADER|Total
+invoices\unpaid.php|HEADING|Invoices
+invoices\unpaid.php|HEADING|Status
+invoices\unpaid.php|HEADING|This Month
+invoices\unpaid.php|HEADING|Total Unpaid
+invoices\unpaid.php|HEADING|Unpaid Invoice List
+invoices\unpaid.php|TABLE_HEADER|Action
+invoices\unpaid.php|TABLE_HEADER|Customer
+invoices\unpaid.php|TABLE_HEADER|Date
+invoices\unpaid.php|TABLE_HEADER|Due
+invoices\unpaid.php|TABLE_HEADER|Invoice
+invoices\unpaid.php|TABLE_HEADER|Paid
+invoices\unpaid.php|TABLE_HEADER|Status
+invoices\unpaid.php|TABLE_HEADER|Total
+invoices\view.php|HEADING|Change
+invoices\view.php|HEADING|Due Amount
+invoices\view.php|HEADING|Invoice Info
+invoices\view.php|HEADING|Paid Amount
+invoices\view.php|HEADING|Payment Summary
+invoices\view.php|HEADING|Quick Payment
+invoices\view.php|HEADING|Total Amount
+invoices\view.php|TABLE_HEADER|Product
+invoices\view.php|TABLE_HEADER|Qty
+invoices\view.php|TABLE_HEADER|Total
+invoices\view.php|TABLE_HEADER|Unit Price
+invoices\view_new.php|BUTTON_LINK|Add Payment
+invoices\view_new.php|BUTTON_LINK|Cancel
+invoices\view_new.php|HEADING|Add Payment
+invoices\view_new.php|HEADING|Invoice Details
+invoices\view_new.php|LABEL|Amount
+invoices\view_new.php|LABEL|Cashier
+invoices\view_new.php|LABEL|Customer
+invoices\view_new.php|LABEL|Mobile Type
+invoices\view_new.php|LABEL|Notes
+invoices\view_new.php|LABEL|Payment Method
+invoices\view_new.php|LABEL|Phone
+invoices\view_new.php|LABEL|Transaction ID (Optional)
+invoices\view_new.php|MESSAGE|No activities
+invoices\view_new.php|MESSAGE|No items found
+invoices\view_new.php|MESSAGE|No payment history
+invoices\view_new.php|OPTION|bKash
+invoices\view_new.php|OPTION|Card
+invoices\view_new.php|OPTION|Cash
+invoices\view_new.php|OPTION|Cheque
+invoices\view_new.php|OPTION|Mobile Banking
+invoices\view_new.php|OPTION|Nagad
+invoices\view_new.php|OPTION|Rocket
+invoices\view_new.php|OPTION|Upay
+invoices\view_new.php|TABLE_HEADER|Item
+invoices\view_new.php|TABLE_HEADER|Qty
+invoices\view_new.php|TABLE_HEADER|Total
+invoices\view_new.php|TABLE_HEADER|Unit Price
+pos\index.php|BUTTON_LINK|&times;
+pos\index.php|BUTTON_LINK|Cancel
+pos\index.php|BUTTON_LINK|Clear
+pos\index.php|BUTTON_LINK|Close
+pos\index.php|BUTTON_LINK|ðŸ’³ Bkash
+pos\index.php|BUTTON_LINK|ðŸ’³ Nagad
+pos\index.php|BUTTON_LINK|ðŸ’³ Rocket
+pos\index.php|BUTTON_LINK|ðŸ’³ Upay
+pos\index.php|HEADING|Add New Customer
+pos\index.php|HEADING|Customer Added!
+pos\index.php|HEADING|Point of Sale
+pos\index.php|HEADING|Products
+pos\index.php|HEADING|Quick Add Customer
+pos\index.php|HEADING|Sale Complete
+pos\index.php|HEADING|Sale Completed Successfully!
+pos\index.php|LABEL|Address
+pos\index.php|LABEL|Change
+pos\index.php|LABEL|Customer
+pos\index.php|LABEL|Customer Name *
+pos\index.php|LABEL|Customer Type
+pos\index.php|LABEL|Due
+pos\index.php|LABEL|Email
+pos\index.php|LABEL|Phone *
+pos\index.php|LABEL|Receive
+pos\index.php|OPTION|All Categories
+pos\index.php|OPTION|Dealer
+pos\index.php|OPTION|Retailer
+pos\index.php|OPTION|VIP
+pos\index.php|OPTION|Wholesaler
+pos\index.php|PLACEHOLDER|Search by name or barcode...
+pos\index.php|PLACEHOLDER|Search customer...
+pos\index.php|TABLE_HEADER|Item
+pos\index.php|TABLE_HEADER|Price
+pos\index.php|TABLE_HEADER|Qty
+pos\index.php|TABLE_HEADER|Total
+products\create.php|BUTTON_LINK|Add
+products\create.php|BUTTON_LINK|Cancel
+products\create.php|HEADING|Add Category
+products\create.php|HEADING|Add New Product
+products\create.php|HEADING|Add Unit
+products\create.php|LABEL|Barcode
+products\create.php|LABEL|Category
+products\create.php|LABEL|Category Name
+products\create.php|LABEL|Description
+products\create.php|LABEL|Initial Stock
+products\create.php|LABEL|Low Stock Alert
+products\create.php|LABEL|Product Image
+products\create.php|LABEL|Status
+products\create.php|LABEL|Unit
+products\create.php|LABEL|Unit Name
+products\create.php|MESSAGE|No Image
+products\create.php|OPTION|Active
+products\create.php|OPTION|Inactive
+products\create.php|OPTION|Select Category
+products\create.php|OPTION|Select Unit
+products\create.php|PLACEHOLDER|0.00
+products\create.php|PLACEHOLDER|10
+products\create.php|PLACEHOLDER|Barcode or SKU
+products\create.php|PLACEHOLDER|e.g., Piece, Kg, Box
+products\create.php|PLACEHOLDER|Enter category name
+products\create.php|PLACEHOLDER|Enter product name
+products\create.php|PLACEHOLDER|Product description (optional)
+products\edit.php|BUTTON_LINK|Add
+products\edit.php|BUTTON_LINK|Cancel
+products\edit.php|HEADING|Add Category
+products\edit.php|HEADING|Add Unit
+products\edit.php|HEADING|Edit Product
+products\edit.php|LABEL|Barcode
+products\edit.php|LABEL|Category
+products\edit.php|LABEL|Category Name
+products\edit.php|LABEL|Description
+products\edit.php|LABEL|Low Stock Alert
+products\edit.php|LABEL|Product Image
+products\edit.php|LABEL|Status
+products\edit.php|LABEL|Stock Quantity
+products\edit.php|LABEL|Unit
+products\edit.php|LABEL|Unit Name
+products\edit.php|MESSAGE|No Image
+products\edit.php|OPTION|Select Category
+products\edit.php|OPTION|Select Unit
+products\edit.php|PLACEHOLDER|e.g., Piece, Kg, Box
+products\edit.php|PLACEHOLDER|Enter category name
+products\index.php|BUTTON_LINK|&times;
+products\index.php|BUTTON_LINK|Close
+products\index.php|BUTTON_LINK|Edit
+products\index.php|HEADING|No Products Found
+products\index.php|HEADING|Product Details
+products\index.php|HEADING|Products
+products\index.php|MESSAGE|No Products Found
+products\index.php|OPTION|All Categories
+products\index.php|OPTION|All Stock
+products\index.php|OPTION|In Stock
+products\index.php|OPTION|Low Stock
+products\index.php|OPTION|Out of Stock
+products\index.php|PLACEHOLDER|Search products...
+purchase\create.php|HEADING|Add New Purchase
+purchase\create.php|HEADING|Product Details
+purchase\create.php|HEADING|Purchase Info
+purchase\create.php|LABEL|Notes
+purchase\create.php|LABEL|Paid Amount
+purchase\create.php|LABEL|Purchase Date
+purchase\create.php|LABEL|Quantity
+purchase\create.php|LABEL|Select Product
+purchase\create.php|LABEL|Supplier
+purchase\create.php|LABEL|Total Amount
+purchase\create.php|LABEL|Unit Cost
+purchase\create.php|OPTION|-- Select Product --
+purchase\create.php|OPTION|-- Select Supplier --
+purchase\index.php|HEADING|All Purchases
+purchase\index.php|HEADING|Purchase List
+purchase\index.php|MESSAGE|No purchases found
+purchase\index.php|PLACEHOLDER|Search...
+purchase\index.php|TABLE_HEADER|Actions
+purchase\index.php|TABLE_HEADER|Date
+purchase\index.php|TABLE_HEADER|Due
+purchase\index.php|TABLE_HEADER|Invoice No
+purchase\index.php|TABLE_HEADER|Paid
+purchase\index.php|TABLE_HEADER|Status
+purchase\index.php|TABLE_HEADER|Supplier
+purchase\index.php|TABLE_HEADER|Total
+purchase\return.php|BUTTON_LINK|Submit Return
+purchase\return.php|HEADING|New Return
+purchase\return.php|HEADING|Purchase Return
+purchase\return.php|LABEL|Amount
+purchase\return.php|LABEL|Product
+purchase\return.php|LABEL|Purchase Invoice
+purchase\return.php|LABEL|Quantity
+purchase\return.php|LABEL|Reason
+purchase\return.php|MESSAGE|No returns yet
+purchase\return.php|OPTION|Select Product
+purchase\return.php|OPTION|Select Purchase
+purchase\return.php|TABLE_HEADER|Amount
+purchase\return.php|TABLE_HEADER|Date
+purchase\return.php|TABLE_HEADER|Product
+purchase\return.php|TABLE_HEADER|Qty
+purchase\return.php|TABLE_HEADER|Reason
+reports\custom_range.php|HEADING|Custom Date Range Report
+reports\custom_range.php|HEADING|Product Sales Summary
+reports\custom_range.php|HEADING|Products Sold
+reports\custom_range.php|HEADING|Sales Details
+reports\custom_range.php|MESSAGE|No product sales for this period
+reports\custom_range.php|MESSAGE|No sales found for this period
+reports\custom_range.php|TABLE_HEADER|Actions
+reports\custom_range.php|TABLE_HEADER|Customer
+reports\custom_range.php|TABLE_HEADER|Date
+reports\custom_range.php|TABLE_HEADER|Due
+reports\custom_range.php|TABLE_HEADER|Invoice
+reports\custom_range.php|TABLE_HEADER|Paid
+reports\custom_range.php|TABLE_HEADER|Payment
+reports\custom_range.php|TABLE_HEADER|Product
+reports\custom_range.php|TABLE_HEADER|Quantity Sold
+reports\custom_range.php|TABLE_HEADER|Total
+reports\custom_range.php|TABLE_HEADER|Total Sales
+reports\daily.php|HEADING|Daily Sales Report
+reports\daily.php|HEADING|Sales Details
+reports\daily.php|MESSAGE|No sales found for this date
+reports\daily.php|TABLE_HEADER|Actions
+reports\daily.php|TABLE_HEADER|Customer
+reports\daily.php|TABLE_HEADER|Due
+reports\daily.php|TABLE_HEADER|Invoice
+reports\daily.php|TABLE_HEADER|Paid
+reports\daily.php|TABLE_HEADER|Payment
+reports\daily.php|TABLE_HEADER|Total
+reports\index.php|HEADING|Custom Range
+reports\index.php|HEADING|Daily Sales Report
+reports\index.php|HEADING|Monthly Report
+reports\index.php|HEADING|Product Sales
+reports\index.php|HEADING|Profit Report
+reports\index.php|HEADING|Reports
+reports\index.php|HEADING|Stock Report
+reports\monthly.php|HEADING|Monthly Sales Details
+reports\monthly.php|HEADING|Monthly Sales Report
+reports\monthly.php|MESSAGE|No sales found for this month
+reports\monthly.php|TABLE_HEADER|Customer
+reports\monthly.php|TABLE_HEADER|Date
+reports\monthly.php|TABLE_HEADER|Due
+reports\monthly.php|TABLE_HEADER|Invoice
+reports\monthly.php|TABLE_HEADER|Paid
+reports\monthly.php|TABLE_HEADER|Payment
+reports\monthly.php|TABLE_HEADER|Total
+reports\product_sales.php|HEADING|Product Sales Details
+reports\product_sales.php|HEADING|Product Sales Report
+reports\product_sales.php|MESSAGE|No product sales found for this period
+reports\product_sales.php|TABLE_HEADER|Product
+reports\product_sales.php|TABLE_HEADER|Quantity Sold
+reports\product_sales.php|TABLE_HEADER|Total Sales
+reports\profit.php|HEADING|Product Profit Details
+reports\profit.php|HEADING|Profit Report
+reports\profit.php|MESSAGE|No sales data found for this period.
+reports\profit.php|TABLE_HEADER|Cost
+reports\profit.php|TABLE_HEADER|Product
+reports\profit.php|TABLE_HEADER|Profit
+reports\profit.php|TABLE_HEADER|Qty Sold
+reports\profit.php|TABLE_HEADER|Sales Amount
+reports\stock.php|HEADING|All Products Stock
+reports\stock.php|HEADING|Low Stock Alert
+reports\stock.php|HEADING|Stock Report
+reports\stock.php|TABLE_HEADER|Category
+reports\stock.php|TABLE_HEADER|Current Stock
+reports\stock.php|TABLE_HEADER|Product
+reports\stock.php|TABLE_HEADER|Status
+reports\stock.php|TABLE_HEADER|Stock
+reports\stock.php|TABLE_HEADER|Threshold
+reports\stock.php|TABLE_HEADER|Unit
+reports\stock.php|TABLE_HEADER|Value
+sale\return.php|BUTTON_LINK|Submit Return
+sale\return.php|HEADING|New Return
+sale\return.php|HEADING|Sale Return
+sale\return.php|LABEL|Amount
+sale\return.php|LABEL|Product
+sale\return.php|LABEL|Quantity
+sale\return.php|LABEL|Reason
+sale\return.php|LABEL|Sale Invoice
+sale\return.php|MESSAGE|No returns yet
+sale\return.php|OPTION|Select Product
+sale\return.php|OPTION|Select Sale
+sale\return.php|TABLE_HEADER|Amount
+sale\return.php|TABLE_HEADER|Date
+sale\return.php|TABLE_HEADER|Product
+sale\return.php|TABLE_HEADER|Qty
+sale\return.php|TABLE_HEADER|Reason
+settings\rolePermission.php|BUTTON_LINK|Save Permissions
+settings\rolePermission.php|HEADING|Role Permission
+settings\rolePermission.php|LABEL|Select Role
+settings\rolePermission.php|OPTION|-- Select Role --
+settings\rolePermission.php|OPTION|Accountant
+settings\rolePermission.php|OPTION|Admin
+settings\rolePermission.php|OPTION|Cashier
+settings\rolePermission.php|OPTION|Manager
+supplier\index.php|HEADING|All Suppliers
+supplier\index.php|HEADING|Supplier List
+supplier\index.php|MESSAGE|No suppliers found
+supplier\index.php|PLACEHOLDER|Search...
+supplier\index.php|TABLE_HEADER|Actions
+supplier\index.php|TABLE_HEADER|Balance
+supplier\index.php|TABLE_HEADER|Company
+supplier\index.php|TABLE_HEADER|Email
+supplier\index.php|TABLE_HEADER|Name
+supplier\index.php|TABLE_HEADER|Phone
+supplier\index.php|TABLE_HEADER|Status

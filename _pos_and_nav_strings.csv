@@ -1,0 +1,78 @@
+﻿layouts\main.php|NAV|Accounting
+layouts\main.php|NAV|Admin
+layouts\main.php|NAV|Dashboard
+layouts\main.php|NAV|HRM
+layouts\main.php|NAV|People
+layouts\main.php|NAV|Product
+layouts\main.php|NAV|Purchase
+layouts\main.php|NAV|Report
+layouts\main.php|NAV|Sale
+pos\index.php|BUTTON_LINK|&times;
+pos\index.php|BUTTON_LINK|Cancel
+pos\index.php|BUTTON_LINK|Clear
+pos\index.php|BUTTON_LINK|Close
+pos\index.php|BUTTON_LINK|ðŸ’³ Bkash
+pos\index.php|BUTTON_LINK|ðŸ’³ Nagad
+pos\index.php|BUTTON_LINK|ðŸ’³ Rocket
+pos\index.php|BUTTON_LINK|ðŸ’³ Upay
+pos\index.php|HEADING|Add New Customer
+pos\index.php|HEADING|Customer Added!
+pos\index.php|HEADING|Point of Sale
+pos\index.php|HEADING|Products
+pos\index.php|HEADING|Quick Add Customer
+pos\index.php|HEADING|Sale Complete
+pos\index.php|HEADING|Sale Completed Successfully!
+pos\index.php|OPTION|All Categories
+pos\index.php|OPTION|Dealer
+pos\index.php|OPTION|ðŸš¶ Walk-in Customer
+pos\index.php|OPTION|Retailer
+pos\index.php|OPTION|VIP
+pos\index.php|OPTION|Wholesaler
+pos\index.php|PLACEHOLDER|Search by name or barcode...
+pos\index.php|PLACEHOLDER|Search customer...
+pos\index.php|TABLE_HEADER|Item
+pos\index.php|TABLE_HEADER|Price
+pos\index.php|TABLE_HEADER|Qty
+pos\index.php|TABLE_HEADER|Total
+pos\index.php|TEXT|Add Customer
+pos\index.php|TEXT|Add New Customer
+pos\index.php|TEXT|Address
+pos\index.php|TEXT|All Categories
+pos\index.php|TEXT|Cancel
+pos\index.php|TEXT|Cash
+pos\index.php|TEXT|Change
+pos\index.php|TEXT|Change:
+pos\index.php|TEXT|Cheque
+pos\index.php|TEXT|Clear
+pos\index.php|TEXT|Click products to add
+pos\index.php|TEXT|Close
+pos\index.php|TEXT|Complete Sale
+pos\index.php|TEXT|Customer
+pos\index.php|TEXT|Customer Added!
+pos\index.php|TEXT|Customer Type
+pos\index.php|TEXT|Dealer
+pos\index.php|TEXT|Discount
+pos\index.php|TEXT|Due
+pos\index.php|TEXT|Due:
+pos\index.php|TEXT|Email
+pos\index.php|TEXT|Invoice:
+pos\index.php|TEXT|Item
+pos\index.php|TEXT|Mobile
+pos\index.php|TEXT|Paid:
+pos\index.php|TEXT|Payment Method
+pos\index.php|TEXT|Payment:
+pos\index.php|TEXT|Price
+pos\index.php|TEXT|Process orders quickly - Scan barcode or click products
+pos\index.php|TEXT|Qty
+pos\index.php|TEXT|Quick Add Customer
+pos\index.php|TEXT|Receive
+pos\index.php|TEXT|Retailer
+pos\index.php|TEXT|Sale Complete
+pos\index.php|TEXT|Sale Completed Successfully!
+pos\index.php|TEXT|Subtotal
+pos\index.php|TEXT|Total
+pos\index.php|TEXT|Total:
+pos\index.php|TEXT|VAT
+pos\index.php|TEXT|VIP
+pos\index.php|TEXT|Wholesaler
+pos\index.php|TEXT|Your cart is empty
